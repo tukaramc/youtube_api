@@ -8,7 +8,7 @@ homepage: https://github.com/nitishk72/Youtube_API
 dependencies:
   flutter:
     sdk: flutter
-  http: ">=0.11.3+16 <0.12.0"
+  http: ">=0.11.3+16 <0.13.0"
 
 environment:
   sdk: ">=2.0.0-dev.58.0 <3.0.0"
